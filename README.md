@@ -5,8 +5,8 @@ I found out how CNN works.
 **Machine learning is really interesting.**
 
 
-
 Dataset link: https://www.kaggle.com/datasets/akashahmedi/sugarcane-leaf-akash
+
 
 Notebook links:
 
