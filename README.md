@@ -7,3 +7,8 @@ I found out how CNN works.
 
 
 Dataset link: https://www.kaggle.com/datasets/akashahmedi/sugarcane-leaf-akash
+
+Notebook links:
+Custom CNN: https://www.kaggle.com/code/prinom/custom-cnn
+DenseNet: https://www.kaggle.com/code/prinom/densenet
+MobileNet: https://www.kaggle.com/code/prinom/mobilenet
